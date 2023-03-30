@@ -1,0 +1,1 @@
+cxfreeze main.py --compress -O --target-dir "build\git_updater.v0.0.1" --include-files="config.json,defaults.json,README.html,doc,resources" --target-name="_git_updater"

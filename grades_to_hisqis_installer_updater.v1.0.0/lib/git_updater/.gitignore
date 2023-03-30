@@ -1,0 +1,16 @@
+/.idea/
+/build/
+/venv/
+config.json
+cache.json
+/resources/PortableGit/bin
+/resources/PortableGit/cmd
+/resources/PortableGit/dev
+/resources/PortableGit/etc
+/resources/PortableGit/mingw32
+/resources/PortableGit/tmp
+/resources/PortableGit/usr
+/resources/PortableGit/git-bash.exe
+/resources/PortableGit/git-cmd.exe
+/resources/PortableGit/LICENSE.txt
+/resources/PortableGit/README.portable
